@@ -1,7 +1,8 @@
-[Ler em Português](https://github.com/TheAlencar)
+
 
 <h1 align="center">Hi 👋, my name is Guilherme Alencar</h1>
-<h3 align="center">Junior Web Developer passionate about technology and development</h3>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=1000&lines=Desenvolvedor+júnior!;Apaixonado+por+Tecnologia!;DevOps)
 
 
 <p align="justify">I am 23 years old, my goal is to create objective solutions that meet the needs of users and customers, always seeking maximum efficiency and quality, always open to new experiences that can improve my knowledge.</p>
@@ -11,15 +12,19 @@
 - 💼 I am looking for a professional opportunity that allows me to apply and improve my knowledge in the area of ​​systems development, contributing to my academic and professional growth.
 
 ###
-
+  
 <h2 align="center">Languages</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = "40" width = "40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = "40" width = "40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = "40" width = "40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = "40" width = "40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height = "40" width = "40" alt="trello logo"  />
 </div>
+
+###
+
+<<h2 align="center">Tecnologias com Familiaridade</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,windows,notion,vite&perline=6" />
 
 ###
 
@@ -50,5 +55,10 @@
   <img src="https://streak-stats.demolab.com?user=TheAlencar&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=TheAlencar&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
-   <img src="https://raw.githubusercontent.com/TheAlencar/README-En_Us/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TheAlencar/README-En_Us/output/snake.svg" alt="Snake animation" />
 </div>
+
+
+
+
+
