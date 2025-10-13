@@ -1,16 +1,54 @@
-## Hi there 👋
+[Ler em Português](https://github.com/TheAlencar)
 
-<!--
-**TheAlencar/TheAlencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, my name is Guilherme Alencar</h1>
+<h3 align="center">Junior Web Developer passionate about technology and development</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">I am 23 years old, my goal is to create objective solutions that meet the needs of users and customers, always seeking maximum efficiency and quality, always open to new experiences that can improve my knowledge.</p>
+
+- 📚 Studying Computer Science at Estácio 
+- 🌱 Graduating from the full stack course at Digital College
+- 💼 I am looking for a professional opportunity that allows me to apply and improve my knowledge in the area of ​​systems development, contributing to my academic and professional growth.
+
+###
+
+<h2 align="center">Languages</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = "40" width = "40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = "40" width = "40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = "40" width = "40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = "40" width = "40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height = "40" width = "40" alt="trello logo"  />
+</div>
+
+###
+
+<h2 align="center">Contacts</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-alencar-591206256/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_guilhermealencar_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5585985460062" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:alencargui08120@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.gg/.theguizao" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
+
+###
+
+<div>
+  <a href="https://github.com/TheAlencar">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAlencar&theme=blue-green&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAlencar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&order=2" height="130" alt="languages graph"  /> 
+  <img src="https://streak-stats.demolab.com?user=TheAlencar&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=TheAlencar&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+   <img src="https://raw.githubusercontent.com/TheAlencar/README-En_Us/output/snake.svg" alt="Snake animation" />
+</div>
