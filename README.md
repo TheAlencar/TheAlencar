@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, my name is Guilherme Alencar</h1>
+<h1 align="center">Hi, my name is Guilherme Alencar</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=1000&lines=Desenvolvedor+júnior!;Apaixonado+por+Tecnologia!;DevOps)
 
