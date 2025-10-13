@@ -7,8 +7,8 @@
 
 <p align="justify">I am 23 years old, my goal is to create objective solutions that meet the needs of users and customers, always seeking maximum efficiency and quality, always open to new experiences that can improve my knowledge.</p>
 
-- 📚 Studying Computer Science at Estácio 
-- 🌱 Graduating from the full stack course at Digital College
+- 📚 Studying Computer Science at [Estácio](https://estacio.br/) 
+- 🌱 Graduating from the full stack course at [Digital College](https://digitalcollege.com.br/)
 - 💼 I am looking for a professional opportunity that allows me to apply and improve my knowledge in the area of ​​systems development, contributing to my academic and professional growth.
 
 ###
@@ -22,9 +22,9 @@
 
 ###
 
-<<h2 align="center">Tecnologias com Familiaridade</h2>
+<h2 align="center">Tecnologias com Familiaridade</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,windows,notion,vite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,windows,notion,vite&perline=7" />
 
 ###
 
@@ -52,7 +52,7 @@
   <a href="https://github.com/TheAlencar">
   <img src="https://github-readme-stats.vercel.app/api?username=TheAlencar&theme=blue-green&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAlencar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&order=2" height="130" alt="languages graph"  /> 
-  <img src="https://streak-stats.demolab.com?user=TheAlencar&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=TheAlencar&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=TheAlencar&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
   <img src="https://raw.githubusercontent.com/TheAlencar/README-En_Us/output/snake.svg" alt="Snake animation" />
