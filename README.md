@@ -54,6 +54,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=TheAlencar&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-![Snake animation](https://github.com/OAlencar/OAlencar/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/TheAlencar/TheAlencar/output/snake.svg)
 
 
