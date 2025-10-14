@@ -1,16 +1,14 @@
-[![PT-BR](https://img.shields.io/badge/READ_IN-PT--BR-green.svg)](README-PT_BR.md)
+[![PT-BR](https://img.shields.io/badge/LEIA_EM-PT--BR-green.svg)](README.md)
 
 <h1 align="center">Hi👋, my name is Guilherme Alencar</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=1000&lines=Desenvolvedor+júnior!;Apaixonado+por+Tecnologia!;DevOps)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=1000&lines=Junior+Developer!;Passionate+about+Technology!;DevOps)
 
+<p align="justify">I am 23 years old, and my goal is to create objective solutions that meet user and customer needs, always seeking maximum efficiency and quality, and remaining open to new experiences that can enhance my knowledge.</p>
 
-<p align="justify">I am 23 years old, my goal is to create objective solutions that meet the needs of users and customers, always seeking maximum efficiency and quality, always open to new experiences that can improve my knowledge.</p>
-
-- 📚 Studying Computer Science at [Estácio](https://estacio.br/) 
-- 🌱 Graduating from the full stack course at [Digital College](https://digitalcollege.com.br/)
-- 💼 I am looking for a professional opportunity that allows me to apply and improve my knowledge in the area of ​​systems development, contributing to my academic and professional growth.
-
+- 📚 Studying Computer Science at [Estácio](https://estacio.br/)  
+- 🌱 Graduating from the Full Stack course at [Digital College](https://digitalcollege.com.br/)  
+- 💼 I am looking for a professional opportunity that allows me to apply and improve my knowledge in systems development, contributing to my academic and professional growth.
 ###
   
 <h2 align="center">Languages</h2>
