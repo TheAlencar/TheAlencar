@@ -1,4 +1,4 @@
-[![PT-BR](https://img.shields.io/badge/LEIA_EM-PT--BR-green.svg)](leia-me-EN_US.md)
+[![en-US](https://img.shields.io/badge/READ_IN-EN--US-red.svg)](README-EN_US.md)
 
 <h1 align="center">Hi👋, my name is Guilherme Alencar</h1>
 
