@@ -8,7 +8,7 @@
 
 - 📚 Estudando Ciência da Computação na [Estácio](https://estacio.br/)
 - 🌱 Concluindo o curso Full Stack na [Digital College](https://digitalcollege.com.br/)
-- 💼 Busco uma oportunidade profissional que me permita aplicar e aprimorar meus conhecimentos na área de desenvolvimento de sistemas, contribuindo para meu crescimento acadêmico e profissional.
+- 💼 Buscando uma oportunidade profissional que me permita aplicar e aprimorar meus conhecimentos na área de desenvolvimento de sistemas, contribuindo para meu crescimento acadêmico e profissional.
 
 ###
   
