@@ -12,7 +12,7 @@
 
 ###
   
-<h2 align="center">Idiomas</h2>
+<h2 align="center">Linguagens com Proficiência</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = "40" width = "40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = "40" width = "40" alt="css3 logo"  />
@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="center">Contatos</h2>
+<h2 align="center">Entre em Contato</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-alencar-591206256/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -45,6 +45,15 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
+## Estatísticas
+
+<div>
+  <a href="https://github.com/TheAlencar">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAlencar&theme=blue-green&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAlencar&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&order=2" height="130" alt="languages graph"  /> 
+  <img src="https://github-profile-trophy.vercel.app?username=TheAlencar&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+    
 ###
 
 <picture align="center">
