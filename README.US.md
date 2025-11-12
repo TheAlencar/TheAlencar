@@ -1,5 +1,6 @@
 [![EN-US](https://img.shields.io/badge/READ_IN-EN--US-red.svg)](README-EN_US.md)
 
+
 <h1 align="center">Olá 👋, meu nome é Guilherme Alencar</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Júnior!;Apaixonado+por+Tecnologia!;DevOps)
