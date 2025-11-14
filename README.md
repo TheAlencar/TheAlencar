@@ -23,7 +23,7 @@
 
 <h2 align="center">Tecnologias com Familiaridade</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,windows,notion,vite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,windows,notion,bootstrap,vite&perline=7" />
 
 ###
 
