@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Júnior!;Apaixonado+por+Tecnologia!;DevOps)
 
-<p align="justify">Tenho 23 anos, meu objetivo é criar soluções objetivas que atendam às necessidades dos usuários e clientes, buscando sempre a máxima eficiência e qualidade, e estando aberto a novas experiências que possam aprimorar meus conhecimentos.</p>
+<p align="justify">Tenho 24 anos, meu objetivo é criar soluções objetivas que atendam às necessidades dos usuários e clientes, buscando sempre a máxima eficiência e qualidade, e estando aberto a novas experiências que possam aprimorar meus conhecimentos.</p>
 
 - 📚 Estudando Ciência da Computação na [Estácio](https://estacio.br/)
 - 🌱 Concluindo o curso Full Stack na [Digital College](https://digitalcollege.com.br/)
