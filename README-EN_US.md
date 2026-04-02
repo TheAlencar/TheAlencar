@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=1000&lines=Junior+Developer!;Passionate+about+Technology!;DevOps)
 
-<p align="justify">I am 23 years old, and my goal is to create objective solutions that meet user and customer needs, always seeking maximum efficiency and quality, and remaining open to new experiences that can enhance my knowledge.</p>
+<p align="justify">I am 24 years old, and my goal is to create objective solutions that meet user and customer needs, always seeking maximum efficiency and quality, and remaining open to new experiences that can enhance my knowledge.</p>
 
 - 📚 Studying Computer Science at [Estácio](https://estacio.br/)  
 - 🌱 Graduating from the Full Stack course at [Digital College](https://digitalcollege.com.br/)  
